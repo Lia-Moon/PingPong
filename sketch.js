@@ -281,4 +281,3 @@ function ganhaPlayer(){
     text('Parabéns!!', 300, 145);
   }
 }
-
